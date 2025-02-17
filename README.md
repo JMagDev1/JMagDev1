@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I have been coding as a hobby and in school over the past 2 and a half years. I started by learning C# and have taught myself other languages like python, HTML and CSS among others.
+I have been coding as a hobby and in school over the past 3 years. I started by learning C# and have taught myself other languages like python, HTML and CSS among others.
 
 *   🌍  I'm based in Northern Ireland
 *   🖥️  See my portfolio at [jmagdev1.github.io/JMagDev1OriginalWebsite/](http://jmagdev1.github.io/JMagDev1OriginalWebsite/)
